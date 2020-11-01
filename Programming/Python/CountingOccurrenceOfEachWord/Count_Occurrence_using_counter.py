@@ -1,5 +1,5 @@
 
-# Program to find the number of occurrence of each unique word in the sequence of occurrence of each word.
+# Program to find the number of occurrence of each unique word in the sequence of occurrence of each word using counter
 
 from collections import Counter
 
